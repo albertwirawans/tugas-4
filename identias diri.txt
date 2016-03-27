@@ -1,8 +1,8 @@
-Wajib diisi !!
+Wajib Diisi !!
 
 Identitas Diri : 
 
-Nama  : lili
-Nim   : 145150207111011
-Kelas : PBO-A
-Tugas : 02
+Nama  : Albert Wirawan
+Nim   : 156150600111006
+Kelas : PTI-A
+Tugas : 04
